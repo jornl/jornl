@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**jornl/jornl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Jørn, a nerd from the northern Norway.
 
-Here are some ideas to get you started:
+**🔭 I’m currently working on:**
+- an Asset Manager (currently Private), written in Laravel, using Inertia and React.
+- Side Project ##.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**🌱 I’m currently learning:**
+- Docker
+- Ansible
+
+
+![jornl's GitHub stats](https://github-readme-stats.vercel.app/api?username=jornl&show_icons=true&theme=dark)
